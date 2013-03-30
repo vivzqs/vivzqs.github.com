@@ -7,3 +7,5 @@ description: 胡言乱语
 
 ## 3-30
 最近状态不太好，有点迷茫，急需正能量
+
+![ssh key success](/images/about-mood/1.bmp)
