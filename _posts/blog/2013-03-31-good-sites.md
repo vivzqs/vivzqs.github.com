@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 收集
+title: 收集有趣的网站
 description: good sites
 category: blog
 ---
