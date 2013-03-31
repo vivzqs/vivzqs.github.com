@@ -1,1 +1,10 @@
----layout: posttitle: 收集description: good sitescategory: blog---##Rainy Mood[Rainy Mood](http://www.rainymood.com/) [Calm](http://www.calm.com/)   
+---
+layout: post
+title: 收集
+description: good sites
+category: blog
+---
+
+Rainy Mood  
+[Rainy Mood](http://www.rainymood.com/)   
+[Calm](http://www.calm.com/)   
