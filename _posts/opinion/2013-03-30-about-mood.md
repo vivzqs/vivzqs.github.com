@@ -10,7 +10,7 @@ description: 胡言乱语
 
 ![猪猪](/images/about-mood/1.jpg)
 
-![cc](/images/about-mood/CCOpenGL.Framework.Architecture.png)
+![cc](/images/CCOpenGL.Framework.Architecture.png)
 
 ## 3-31
 3月的最后一天了，春夏之交心火很旺，人比较浮躁，还是要静下心来，按计划做事，勿贪恋，勿空想，踏踏实实，让日子充实快乐！Fighting~
