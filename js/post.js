@@ -23,8 +23,8 @@ $(document).ready(function(){
 
     $('pre').addClass('prettyprint linenums') //添加Google code Hight需要的class
     
-    window.disqus_shortname = 'vivzqs'; // required: replace example with your forum shortname
-    $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
+//    window.disqus_shortname = 'vivzqs'; // required: replace example with your forum shortname
+//    $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
 
     $('.entry a').each(function(index,element){
         var href = $(this).attr('href');
