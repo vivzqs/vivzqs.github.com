@@ -6,7 +6,7 @@ paginate:         6
 permalink:        /:title
 
 title:            zhuqs.com
-url:              http://zhuqs.com
+url:              http://vivzqs.github.com
 feed:             /atom.xml
 author:
     name:         zhuqs
