@@ -2,7 +2,8 @@
 Shape Diameter Function
 
 GMM EM 软聚类
-
-
-
 graph cuts 硬聚类
+
+通过SDF提取建筑物
+
+区域增长的方式 获取地面网格 
