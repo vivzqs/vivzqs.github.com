@@ -1,6 +1,16 @@
 
+// 对于较大面积的平面区域，建立更加广泛的邻接关系
 OptimizeAdjGraph
 {
-    search large region
-    
+    //search large region kdtree
+    if (tri.area > 10)
+    {
+        tri.adj 
+    }
 }
+
+//建立segment-graph，采用EGB中的最小生成树算法，对凸邻接的平面进行聚类。
+//存在的问题：
+//1. graph中各边的weight如何定义，考虑region area作为factor，
+//
+//
