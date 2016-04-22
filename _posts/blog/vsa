@@ -12,5 +12,10 @@ OptimizeAdjGraph
 //建立segment-graph，采用EGB中的最小生成树算法，对凸邻接的平面进行聚类。
 //存在的问题：
 //1. graph中各边的weight如何定义，考虑region area作为factor，
-//
-//
+
+
+
+存在的问题：
+1. 邻接关系
+2. 拓扑，即凹凸关系
+3. 如何处理错误的连通关系。
