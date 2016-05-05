@@ -19,3 +19,7 @@ OptimizeAdjGraph
 1. 邻接关系
 2. 拓扑，即凹凸关系
 3. 如何处理错误的连通关系。
+
+
+发现一个牛逼的Mesh库，叫geogram，在构网和repair方面很厉害，比CGAL和VCG都高效，现在软件Graphite已经基于这个mesh库了。
+
