@@ -23,3 +23,7 @@ OptimizeAdjGraph
 
 发现一个牛逼的Mesh库，叫geogram，在构网和repair方面很厉害，比CGAL和VCG都高效，现在软件Graphite已经基于这个mesh库了。
 
+region转换为superfacet
+{
+    
+}
